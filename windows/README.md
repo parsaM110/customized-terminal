@@ -1,3 +1,4 @@
+# powershell
 so powershell shortcut font change to consolas 14 seems not work from defualt
 
 solution is to delete ... 
@@ -14,3 +15,6 @@ there is also `oh-my-posh` and `starship`, doesn't got the time yet
 - https://ohmyposh.dev/
 - ### starship
 - https://starship.rs/guide/
+# cmd
+the damn cmd doesn't have history 
+you have to install [clink](https://serverfault.com/questions/95404/is-there-a-global-persistent-cmd-history?newreg=7e04a9ecf137410381878ab0bc5b2a76)
