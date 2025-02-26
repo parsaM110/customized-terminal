@@ -2,6 +2,7 @@ so powershell shortcut font change to consolas 14 seems not work from defualt
 
 solution is to delete ... 
 - https://superuser.com/questions/345622/how-do-i-set-the-powershell-default-font-to-consolas
+no dammit finally find the solution each damn shortcut have its own properties>fonts but it doesn't still accept all fonts and sizes :`I hate windows🤬`
 
 instead now I use
 - Win + r -> powershell
